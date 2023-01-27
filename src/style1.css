@@ -1,0 +1,48 @@
+html, body{
+	height: 100%;
+}
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
+.link-cntct{
+	color: rgba(30,30,30);
+	text-decoration: none;
+}
+.bg-home{
+	background-image: url("../img/bg.jpg");
+	background-size: cover;
+	width: 100%;
+	position: absolute;
+	min-height: 92%;
+}
+.round-img{
+	border-radius: 50%;
+}
+.center-img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.aboutme-btn{
+	background-color: rgba(39,174,96,0.6);
+	border-radius: 5px;
+	height: 40px;
+	width: 100px;
+	border: none;
+	color: white;
+}
+.aboutme-btn:hover{
+	background-color: rgba(39,174,96,0.9);
+}
+.aboutme-pg{
+	margin: 20px;
+	padding: 20px;
+	background-color: rgb(255,255,255);
+	border-radius: 10px;
+
+}
