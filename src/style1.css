@@ -41,6 +41,12 @@ img{
 }
 .aboutme-pg{
 	margin: 12px;
+	padding: 20px;
+	background-color: rgb(255,255,255);
+	border-radius: 10px;
+}
+.aboutme-pg2{
+	margin: 12px;
 	padding: 15px 8px;
 	background-color: rgb(255,255,255);
 	border-radius: 10px;
